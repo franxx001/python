@@ -7,5 +7,5 @@ if guess == number:
 elif guess < number:
     print('no,it is a little higher than that')
 else:
-    print('no,is is  little lower than that')
+    print('no,is is a little lower than that')
 print('Done')
